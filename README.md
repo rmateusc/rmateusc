@@ -7,4 +7,4 @@ Passionate about learning new skills, and help others on their journey :)
 
 ## Languages & Tools
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="python" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
