@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Stats, Math, and ML enthusiast! 
+Passionate about learning new skills, and help others on their journey :) 
+
