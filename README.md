@@ -3,7 +3,9 @@
 Stats, Math, and ML enthusiast! 
 Passionate about learning new skills, and help others on their journey :) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmateusc)
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmateusc)
+</p>
 
 ## Languages & Tools
 <div align="center">
